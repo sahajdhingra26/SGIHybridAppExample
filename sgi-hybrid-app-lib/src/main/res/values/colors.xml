@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#90CAF9</color>
+    <color name="colorPrimaryDark">#90CAF9</color>
+    <color name="colorAccent">#90CAF9</color>
+
+
+    <color name="bgColor">#1565C0</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="mitmold_blue">#00ADED</color>
+    <color name="mitmold_login_line">#66CEF4</color>
+    <color name="blue">#0000FF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="green_login">#92C622</color>
+    <color name="gray">#DFDFDF</color>
+    <color name="gray_login">#F0F0F0</color>
+    <color name="background">#EDEDED</color>
+    <color name="headerBackground">#498BC2</color>
+    <color name="MenuBackground">#5A5A5A</color>
+    <color name="MenuTitleBackground">#313131</color>
+    <color name="MenuTitle">#919093</color>
+    <color name="darkgray">#7E7E7E</color>
+    <color name="link">#008AFF</color>
+    <color name="EditTextBorder">#E5E5E5</color>
+    <color name="success">#099A2C</color>
+    <color name="error">#9F2828</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="darkGrey">#555555</color>˙
+    <color name="darkGreen">#FF669900</color>
+    <color name="prev_event">#0584FF</color>
+
+    <!-- Calendar view related-->
+    <color name="calendar_active_month_bg">#fff5f7f9</color>
+    <color name="calendar_bg">#ffffff</color>
+    <color name="calendar_divider">#C8C8C8</color><!-- #ffbababa -->
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_highlighted_day_bg">#ccffcc</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#000000</color>
+    <color name="calendar_text_highlighted">#ff778088</color>
+
+    <color name="custom_header_text">#85B100</color>
+    <color name="custom_selected">#ffffff</color> <!-- #A8D324 -->
+    <color name="custom_background">#ffffff</color> <!-- #F0F8DB -->
+    <color name="custom_background_today">#FF9105</color>
+    <color name="custom_background_disabled">#F0F8DB</color>
+    <color name="custom_text_selected">#FFFFFFFF</color>
+    <color name="custom_text_inactive">#7f778088</color>
+</resources>
